@@ -1,4 +1,4 @@
-# Mobile telepsychiatry meta-data
+# IHS South Sudan Bahmni Metadata
 
 ## Description
 
