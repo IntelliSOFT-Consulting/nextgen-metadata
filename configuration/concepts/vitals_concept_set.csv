@@ -1,3 +1,11 @@
-uuid,name,shortname,decription,class,datatype,child.1,child.2,child.3,child.4,child.5,child.6,child.7,child.7
-c36d22e6-3f10-11e4-adec-0800271c1b76,Blood Pressure Data,,,ConvSet,N/A,Systolic,Diastolic,,,,,,
-84f626d0-3f10-11e4-adec-0800271c1b75,Nutritional Values,Nutritional Values,,ConvSet,Numeric,HEIGHT,WEIGHT,Body Fat,Pulse,SPO2,Temperature,RBS,Blood Pressure Data
+Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:2
+c36d22e6-3f10-11e4-adec-0800271c1b76,,"Systolic;
+Diastolic",Blood Pressure Data,,ConvSet,N/A,,
+84f626d0-3f10-11e4-adec-0800271c1b75,,"HEIGHT;
+WEIGHT;	
+Body Fat;	
+Pulse;
+SPO2;	
+Temperature;	
+RBS;	
+Blood Pressure Data",Nutritional Values,Nutritional Values,ConvSet,N/A,,

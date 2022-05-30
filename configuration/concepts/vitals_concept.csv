@@ -1,0 +1,7 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,Normal low,Normal high,Units,Allow decimals,Display precision,_version:1,_order:1,Data class,Data type,Answers
+bfac6f6c-fae1-408d-9031-e24873e853fe,,Body Fat,,,,,,,,,,,Misc,Numeric,
+c36bc411-3f10-11e4-adec-0800271c1b75,,Pulse,Pulse( bpm),,,60,100,,Yes,,,,Misc,Numeric,
+c3838414-3f10-11e4-adec-0800271c1b75,,SPO2,SPO2 (%),,,95,,%,Yes,,,,Misc,Numeric,
+c37bd733-3f10-11e4-adec-0800271c1b75,,Temperature,Temperature,,,36.1,37.5,C,Yes,,,,Misc,Numeric,
+c36e9c8b-3f10-11e4-adec-0800271c1b75,,Systolic,,,,90,120,mm Hg,Yes,,,,Misc,Numeric,
+c379aa1d-3f10-11e4-adec-0800271c1b75,,Diastolic,,,,60,80,mm Hg,Yes,,,,Misc,Numeric,
