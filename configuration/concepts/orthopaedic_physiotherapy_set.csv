@@ -1,0 +1,51 @@
+Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:6
+2b8eaf07-b9fb-4f4e-926a-b4a7b8b2b451,"Clobetasone;	
+Paracetamol;	
+Pentazocine;	
+Salbutamol inhaler;	
+Chana;	
+Albendazole 400mg;	
+Cytalon;	
+Ipratropium Bromide Respirator Solution;",,Past Medical History,,Question,Coded,,
+0be72ea9-9a07-49c6-a0fb-fddfe7beccf6,"Clobetasone;	
+Paracetamol;	
+Pentazocine;	
+Salbutamol inhaler;	
+Chana;	
+Cytalon;	
+Ipratropium Bromide Respirator Solution;",,Current Medications,,Question,Coded,,
+73966e31-2f2d-4bf7-962f-bf826dc8a08d,"CABG;	
+PTCA;	
+Leg bypass;	
+Carotid artery surgery;",,Past Surgical History,,Question,Coded,,
+5f72aa03-1c8b-41e3-a0b3-039b27a49f49,"Alzheimer's;	
+Diabetes;	
+Hemorrhagic conditions, unspec.;",,Current Medical conditions,,Question,Coded,,
+2b50e6f6-76d8-4a8c-b38b-8794d713efe5,"Impotence, organic;	
+Infertility, male, unspec.;	
+Calculus, urinary, unspec.;	
+Mastitis, NOS;	
+Infertility, female, unspec.;	
+Infertility, male, unspec.;",,Diagnosis,,Question,Coded,,
+52ed8fb5-8603-4a2d-a61f-1282cf31f6c6,"Impotence, organic;	
+Infertility, male, unspec.;	
+Calculus, urinary, unspec.;	
+Mastitis, NOS;	
+Infertility, female, unspec.;	
+Infertility, male, unspec.;",,Differential Diagnosis,,Question,Coded,,
+b853fcf9-567a-4e46-b59b-61d5f9086400,"Chest, 1 view (X-ray), Investigation;	
+Spine, 1 view (X-ray), Investigation;	
+Pelvis, 1 view (X-ray), Investigation;	
+Ribs - Right, 2 views (X-ray), Investigation;",,Investigations,,Question,Coded,,
+5e8af53e-3fe4-4a63-9c1d-cb34c3dcaa1c,,"Chief Complaint;	
+Present History;	
+Current Medical conditions;	
+Current Medications;	
+Past Medical History;	
+Past Surgical History;	
+On observation;	
+On palpation;	
+On examination;Diagnosis;	
+Differential Diagnosis;	
+Investigations;	
+Treatment plan;",Orthopaedic & Physiotherapy assessment form,Orthopaedic & Physiotherapy assessment Form,ConvSet,N/A,,
