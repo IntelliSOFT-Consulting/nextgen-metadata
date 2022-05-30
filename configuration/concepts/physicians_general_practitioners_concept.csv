@@ -1,0 +1,5 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,Normal low,Normal high,Units,Allow decimals,Display precision,_version:1,_order:3,Data class,Data type,Answers
+228b05b7-27c5-49ab-bc6e-abd139bd966a,,Social History,,,,,,,,,,,"Question ",Text,
+d6e4b2db-018c-49b7-9f67-0029487eca31,,Present History,,,,,,,,,,,"Question ",Text,
+a1f132b4-70d8-4832-854c-4a1cf8f9fe91,,"Family history, Observation",Observation,,,,,,,,,,Question,Text,
+bd343f43-f4d9-4ab6-90f7-d8464b236795,,Examination findings,,,,,,,,,,,Question,Text,

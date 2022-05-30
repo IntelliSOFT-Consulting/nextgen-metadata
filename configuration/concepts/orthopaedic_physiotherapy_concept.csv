@@ -1,0 +1,52 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,Normal low,Normal high,Units,Allow decimals,Display precision,_version:1,_order:5,Data class,Data type,Answers
+d6e4b2db-018c-49b7-9f67-0029487eca31,,Present History,,,,,,,,,,,Question,Text,
+29f199b7-704e-44d5-b1ab-45e3c7705dd2,,CABG,Coronary Artery Bypass Graft Surgery,,,,,,,,,,Misc,N/A,
+e82b0c45-9b78-4db2-adda-d098c8c22f54,,PTCA,Percutaneous transluminal coronary angioplasty,,,,,,,,,,Misc,N/A,
+a76bee1f-7e16-4b10-a604-6c6a7c48de76,,Leg bypass,Leg bypass,,,,,,,,,,Misc,N/A,
+71f0dd5b-6e12-41dd-87d5-28f23ea0e85f,,Carotid artery surgery,Carotid artery surgery,,,,,,,,,,Misc,N/A,
+2b8eaf07-b9fb-4f4e-926a-b4a7b8b2b451,,Past Medical History,,,,,,,,,,,Question,Coded,"Clobetasone;	
+Paracetamol;	
+Pentazocine;	
+Salbutamol inhaler;	
+Chana;	
+Albendazole 400mg;	
+Cytalon;	
+Ipratropium Bromide Respirator Solution;"
+0be72ea9-9a07-49c6-a0fb-fddfe7beccf6,,Current Medications,,,,,,,,,,,Question,Coded,"Clobetasone;	
+Paracetamol;	
+Pentazocine;	
+Salbutamol inhaler;	
+Chana;	
+Cytalon;	
+Ipratropium Bromide Respirator Solution;"
+73966e31-2f2d-4bf7-962f-bf826dc8a08d,,Past Surgical History,,,,,,,,,,,Question,Coded,"CABG;	
+PTCA;	
+Leg bypass;	
+Carotid artery surgery;"
+5f72aa03-1c8b-41e3-a0b3-039b27a49f49,,Current Medical conditions,,,,,,,,,,,Question,Coded,"Alzheimer's;	
+Diabetes;	
+Hemorrhagic conditions, unspec.;"
+2b50e6f6-76d8-4a8c-b38b-8794d713efe5,,Diagnosis,,,,,,,,,,,Question,Coded,"Impotence, organic;	
+Infertility, male, unspec.;	
+Calculus, urinary, unspec.;	
+Mastitis, NOS;	
+Infertility, female, unspec.;	
+Infertility, male, unspec.;"
+52ed8fb5-8603-4a2d-a61f-1282cf31f6c6,,Differential Diagnosis,,,,,,,,,,,Question,Coded,"Impotence, organic;	
+Infertility, male, unspec.;	
+Calculus, urinary, unspec.;	
+Mastitis, NOS;	
+Infertility, female, unspec.;	
+Infertility, male, unspec.;"
+a2c676c7-97fd-4efc-beac-15d0bbe1a1ba,,On observation,,,,,,,,,,,Question,Text,
+1c30df03-6078-410c-be46-6a8705a61874,,On palpation,,,,,,,,,,,Question,Text,
+af12b516-8146-4c1d-9389-fd80b3e5f928,,On examination,,,,,,,,,,,Question,Text,
+daf98688-09fc-4694-9d12-fe87d7f1d081,,"Chest, 1 view (X-ray), Investigation","Chest, 1 view (X-ray)",,,,,,,,,,Misc,N/A,
+28a765d8-1f76-4132-9493-10af7021d7c9,,"Spine, 1 view (X-ray), Investigation","Spine, 1 view (X-ray)",,,,,,,,,,Misc,N/A,
+1945b4a1-1369-400e-a43c-16525771d087,,"Pelvis, 1 view (X-ray), Investigation","Pelvis, 1 view (X-ray)",,,,,,,,,,Misc,N/A,
+b8b18a2b-d3b6-46e8-a9a4-7880eb5c84ca,,"Ribs - Right, 2 views (X-ray), Investigation","Ribs - Right, 2 views (X-ray)",,,,,,,,,,Misc,N/A,
+b853fcf9-567a-4e46-b59b-61d5f9086400,,Investigations,,,,,,,,,,,Question,Coded,"Chest, 1 view (X-ray), Investigation;	
+Spine, 1 view (X-ray), Investigation;	
+Pelvis, 1 view (X-ray), Investigation;	
+Ribs - Right, 2 views (X-ray), Investigation;"
+543da564-a7e4-447c-ba6f-77bce24be4b0,,Treatment plan,,,,,,,,,,,Question,Text,
