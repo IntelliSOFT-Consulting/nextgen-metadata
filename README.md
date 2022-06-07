@@ -1,4 +1,4 @@
-# IHS South Sudan Bahmni Metadata
+# Nextgen Metadata
 
 ## Description
 
