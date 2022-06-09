@@ -1,0 +1,31 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,Normal low,Normal high,Units,Allow decimals,Display precision,_version:1,_order:45,Data class,Data type,Answers
+a81caf58-ca0e-4a31-aab7-69705d90da7b,,Primary school,,,,,,,,,,,Misc,N/A,
+bc6c5335-6bde-49d9-85ff-570f13ce4a81,,High School,,,,,,,,,,,Misc,N/A,
+93d9e9f9-4c56-4074-b6d8-fb1858580b3d,,Diploma,,,,,,,,,,,Misc,N/A,
+3d7956d4-4461-43af-bea2-3bc94c711cb9,,Undergraduate,,,,,,,,,,,Misc,N/A,
+0cf992a8-bc2e-4741-9cc9-1d304e9b2897,,Masters,,,,,,,,,,,Misc,N/A,
+3b333429-ea7c-48f6-9e05-52446648500c,,PhD,,,,,,,,,,,Misc,N/A,
+c2107f30-3f10-11e4-adec-0800271c1b75,,Uneducated,,,,,,,,,,,Misc,N/A,
+c2084e7b-3f10-11e4-adec-0800271c1b75,,Education Details,Education Details,,,,,,,,,,Misc,Coded,"Primary school;
+High School;
+Diploma;
+Undergraduate;
+Masters;
+PhD;
+Uneducated"
+dd59579f-d7fe-4b10-a6f4-2ade4a2daef9,,Self-Employed,,,,,,,,,,,Misc,N/A,
+c2232daf-3f10-11e4-adec-0800271c1b75,,Student,,,,,,,,,,,Misc,N/A,
+c223fe8d-3f10-11e4-adec-0800271c1b75,,Government,,,,,,,,,,,Misc,N/A,
+6434a25d-a2e6-4498-a0f3-570ea16d6ef5,,Private Institutions,,,,,,,,,,,Misc,N/A,
+6c66f693-85a6-4951-b205-25f5b7f13aa5,,NGO's,,,,,,,,,,,Misc,N/A,
+c224c534-3f10-11e4-adec-0800271c1b75,,Business,,,,,,,,,,,Misc,N/A,
+8e43df09-ffba-43f8-a493-e6d39b5def3d,,Casual,,,,,,,,,,,Misc,N/A,
+c2222941-3f10-11e4-adec-0800271c1b75,,Unemployed,,,,,,,,,,,Misc,N/A,
+c221869a-3f10-11e4-adec-0800271c1b75,,Occupation,Occupation,,,,,,,,,,Misc,Coded,"Self-Employed;
+Student;
+Government;
+Private Institutions;
+NGO's;
+Business;
+Casual;
+Unemployed"
