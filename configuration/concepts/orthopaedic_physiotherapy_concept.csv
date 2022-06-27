@@ -3,15 +3,13 @@ d6e4b2db-018c-49b7-9f67-0029487eca31,,Present History,,,,,,,,,,,Question,Text,
 29f199b7-704e-44d5-b1ab-45e3c7705dd2,,CABG,Coronary Artery Bypass Graft Surgery,,,,,,,,,,Misc,N/A,
 e82b0c45-9b78-4db2-adda-d098c8c22f54,,PTCA,Percutaneous transluminal coronary angioplasty,,,,,,,,,,Misc,N/A,
 a76bee1f-7e16-4b10-a604-6c6a7c48de76,,Leg bypass,Leg bypass,,,,,,,,,,Misc,N/A,
+580d2f65-e1a0-4faf-b085-8871477dc617,,"High Blood pressure, Medical history",High Blood pressure,,,,,,,,,,Misc,N/A,
+3ebf1fe7-8664-4d41-8ae8-6301550787ac,,"Diabetes, Medical history",Diabetes,,,,,,,,,,Misc,N/A,
+4c950951-c9e3-45eb-95b2-8791b16a2d53,,"Heart disease, Medical History",Heart disease,,,,,,,,,,Misc,N/A,
 71f0dd5b-6e12-41dd-87d5-28f23ea0e85f,,Carotid artery surgery,Carotid artery surgery,,,,,,,,,,Misc,N/A,
-2b8eaf07-b9fb-4f4e-926a-b4a7b8b2b451,,Past Medical History,,,,,,,,,,,Question,Coded,"Clobetasone;	
-Paracetamol;	
-Pentazocine;	
-Salbutamol inhaler;	
-Chana;	
-Albendazole 400mg;	
-Cytalon;	
-Ipratropium Bromide Respirator Solution;"
+2b8eaf07-b9fb-4f4e-926a-b4a7b8b2b451,,Past Medical History,,,,,,,,,,,Question,Coded,"High Blood pressure, Medical history;
+Diabetes, Medical history;
+Heart disease, Medical History;"
 0be72ea9-9a07-49c6-a0fb-fddfe7beccf6,,Current Medications,,,,,,,,,,,Question,Coded,"Clobetasone;	
 Paracetamol;	
 Pentazocine;	
