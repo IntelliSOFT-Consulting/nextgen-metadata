@@ -1,0 +1,89 @@
+Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:12
+1b34955b-9fe3-4265-acf4-c58cb7620ece,"High Blood pressure, Medical history;
+Diabetes, Medical history;
+Heart disease, Medical History;",,"Current Medical conditions, Lifestyle modification",Current Medical conditions,Question,Coded,,
+107ec036-76a0-45d9-9547-edaf1c9b7c02,"Clobetasone;	
+Paracetamol;	
+Pentazocine;	
+Salbutamol inhaler;	
+Chana;	
+Cytalon;	
+Ipratropium Bromide Respirator Solution;",,"Current Medications, Lifestyle modification",Current Medications,Question,Coded,,
+06ad2680-5849-494a-aa00-2f7157467068,"Childhood illnesses, Medical History;
+Major adult illnesses, Medical History;
+Allergies, Medical History;",,"Past Medical history, Lifestyle modification",Past Medical history,Question,Coded,,
+70b1c2de-3690-444b-897a-e0c5693efa67,"CABG;	
+PTCA;	
+Leg bypass;	
+Carotid artery surgery;",,"Past Surgical History, Lifestyle modification",Past Surgical History,Question,Coded,,
+494df140-ada4-4a94-b124-4880ef37167d,"High Blood pressure, Medical history;
+Diabetes, Medical history;
+Heart disease, Medical History;",,"Family history, Lifestyle modification",Family history,Question,Coded,,
+b3bcaef8-0898-4649-9ef4-6b1d49c5a6bb,,,"Investigations, Lifestyle modification",Investigations,Question,Coded,,
+3d12c06a-9fbd-4ef9-9b6a-bc9b579b8d03,"Progesterone deficiency;
+Estrogen deficiency;
+Excess estroge;
+Estrogen dominance;
+Excess androgens;
+Cortisol deficiency;",,"Hormonal findings, Lifestyle modification",Hormonal findings,Question,Coded,,
+834ade1b-740e-4776-acd2-cb7f434c38de,,,"Hormonal treatment plan, Lifestyle modification","Hormonal treatment plan ",Question,Coded,,
+a3c7874b-5ffb-429d-98eb-34c4de1fd1ab,"Low levels;
+Moderate levels;
+High levels;",,"Exercise findings, Lifestyle modification","Exercise findings ",Question,Coded,,
+386f0c55-4b7e-497e-8326-05b652ec836e,,"Deep squat;
+Hurdle step (Left and right) ;
+Inline lunge  (Left and right);
+Ankle clearing  (Left and right);
+Shoulder mobility  (Left and right);
+Shoulder clearing  (Left and right);
+Active strength leg raise  (Left and right); 
+Trunk stability push up;
+Extension clearing;
+Rotary stability  (Left and right); 
+Flexion clearing;",Functional movement Screening (FMS) Total score,,Misc,N/A,,
+3b70d565-a48f-4ba4-ac28-057261c4cd55,,"Body fat (%);
+Muscle mass (kg);
+Bone mass (kg);
+Upper body strength (Handgrip right)  (kg);
+Upper body strength (Handgrip left)  (kg);
+Upper body strength (1RM)  (kg);
+Lower body strength  (kg);
+Muscle endurance (no);
+Cardiovascular endurance (bpm or VO2 max);
+Flexibility (cm);
+Functional movement Screening (FMS) Total score;","Physical capacity assessment, Lifestyle modification",Physical capacity assessment,Misc,N/A,,
+83be80a7-3c7c-4475-99b4-5221e1d3e3e3,,,"Exercise treatment plans, Lifestyle modification","Exercise treatment plans ",Question,Coded,,
+785fb19d-7d8f-441f-898c-4de7d63099be,"High carb;
+Ketogenic;
+Adequate nutritional status;
+Low vegetable intake;",,"Nutritional findings, Lifestyle modification","Nutritional findings ",Question,Coded,,
+57f9234f-fc40-4250-81c8-0426ae3922b5,,,"Nutritional treatment plan, Lifestyle modification","Nutritional treatment plan ",Question,Coded,,
+0097a798-e14d-439e-8f24-42d809e91a13,,,"Injury findings, Lifestyle modification","Injury findings ",Question,Coded,,
+061a2266-ce26-4c9c-8382-eb9eb319e4ff,,,"Injury treatment plans, Lifestyle modification","Injury treatment plans ",Question,Coded,,
+9dbbfa8c-7109-4f71-85c3-93ea08cf2394,"Low levels of mental wellness;
+Moderate levels of mental wellness;
+High levels of mental wellness;
+High stress;
+High anxiety;
+Moderate stress;
+Moderate Moderate anxiety;",,"Mental wellness findings, Lifestyle modification","Mental wellness findings ",Question,Coded,,
+74069900-71a9-4b1a-ae67-076e139ffd94,,,"Mental wellness treatment plans, Lifestyle modification","Mental wellness treatment plans ",Question,Coded,,
+9572b51f-f3b9-48da-88c6-ac2272d69080,,"Current Medical conditions, Lifestyle modification;
+Current Medications, Lifestyle modification;
+Past Medical history, Lifestyle modification;
+Past Surgical History, Lifestyle modification;
+Social History, Lifestyle modification;
+Family history, Lifestyle modification;
+Investigations, Lifestyle modification;
+Hormonal findings, Lifestyle modification;
+Hormonal treatment plan, Lifestyle modification;
+Exercise findings, Lifestyle modification;
+Physical capacity assessment, Lifestyle modification;
+Exercise treatment plans, Lifestyle modification;
+Nutritional findings, Lifestyle modification;
+Nutritional treatment plan, Lifestyle modification;
+Injury findings, Lifestyle modification;
+Injury treatment plans, Lifestyle modification;
+Mental wellness findings, Lifestyle modification;
+Mental wellness treatment plans, Lifestyle modification;
+",Lifestyle Modification Questionnaire,Lifestyle Modification Questionnaire Form,Misc,N/A,,
