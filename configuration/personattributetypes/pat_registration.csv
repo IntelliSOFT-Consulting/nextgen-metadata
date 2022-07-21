@@ -22,3 +22,4 @@ dcf96a15-0649-4f84-a7bb-c162bf9bebb2,,mobileNumber,Patient's Contact,java.lang.S
 60b7eabd-67d1-466c-9862-9ef287212775,,nextOfKin,Next of Kin's Name,java.lang.String,,yes,Edit:PAT,,
 327faa8b-6613-427c-a7e4-98ccb1523cb8,,nextOfKinRelationship,Next of Kin Relationship,java.lang.String,,yes,Edit:PAT,,
 eebf0557-8cfe-4541-9fcd-d19e4b35aadd,,nextOfKinContacts,Next of Kin's Contact,java.lang.String,,yes,Edit:PAT,,
+b9ea9d2c-7e89-4e4a-a136-a0d8b4c1b457,,registrationLocation,Registration Location,java.lang.String,,yes,Edit:PAT,,
