@@ -1,30 +1,37 @@
 Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,Normal low,Normal high,Units,Allow decimals,Display precision,_version:1,_order:11,Data class,Data type,Answers
+4913375a-7567-4903-9c74-d52aa18f1259,,"Other, Specify",Other,,,,,,,,,,Misc,N/A,
 1b34955b-9fe3-4265-acf4-c58cb7620ece,,"Current Medical conditions, Lifestyle modification",Current Medical conditions,,,,,,,,,,Question,Coded,"High Blood pressure, Medical history;
 Diabetes, Medical history;
-Heart disease, Medical History;"
+Heart disease, Medical History;Other, Specify;"
+3aad826c-12e2-4e5a-ab8d-c4ab5aab0d78,,"Other Medical condition, Specify",Specify,,,,,,,,,,Misc,Text,
 107ec036-76a0-45d9-9547-edaf1c9b7c02,,"Current Medications, Lifestyle modification",Current Medications,,,,,,,,,,Question,Coded,"Clobetasone;	
 Paracetamol;	
 Pentazocine;	
 Salbutamol inhaler;	
 Chana;	
 Cytalon;	
-Ipratropium Bromide Respirator Solution;"
+Ipratropium Bromide Respirator Solution;Other, Specify;"
+3c129981-c921-4f68-b90b-9c4e7785ec23,,"Current Medications, Specify",Specify,,,,,,,,,,Misc,Text,
 d51a8308-2f58-4581-91b8-f7fd19d799d3,,Drug dosage,,,,,,,,,,,Question,Text,
 85e4bd0c-7648-43f1-bde0-685fefebc19d,,"Childhood illnesses, Medical History",Childhood illnesses,,,,,,,,,,Misc,N/A,
 eb6f5c75-7ba3-4a68-998c-fc7b85f39bbc,,"Major adult illnesses, Medical History",Major adult illnesses,,,,,,,,,,Misc,N/A,
 32f143d1-f4d3-4238-94ef-0e07dcdbfeb6,,"Allergies, Medical History",Allergies,,,,,,,,,,Misc,N/A,
 06ad2680-5849-494a-aa00-2f7157467068,,"Past Medical history, Lifestyle modification",Past Medical history,,,,,,,,,,Question,Coded,"Childhood illnesses, Medical History;
 Major adult illnesses, Medical History;
-Allergies, Medical History;"
+Allergies, Medical History;Other, Specify;"
+35e34526-9fdc-49cf-8e6c-67855a6f1719,,"Past Medical history, Specify",Specify,,,,,,,,,,Misc,Text,
 70b1c2de-3690-444b-897a-e0c5693efa67,,"Past Surgical History, Lifestyle modification",Past Surgical History,,,,,,,,,,Question,Coded,"CABG;	
 PTCA;	
 Leg bypass;	
-Carotid artery surgery;"
+Carotid artery surgery;Other, Specify;"
+975dd98f-1ca8-4826-aa9a-22500a680639,,"Past Surgical History, Specify",Specify,,,,,,,,,,Misc,Text,
 15a4dc93-aaa1-49b3-90f5-08ba8c1cf5db,,"Social History, Lifestyle modification",Social History,,,,,,,,,,Misc,Text,
 494df140-ada4-4a94-b124-4880ef37167d,,"Family history, Lifestyle modification",Family history,,,,,,,,,,Question,Coded,"High Blood pressure, Medical history;
 Diabetes, Medical history;
-Heart disease, Medical History;"
-b3bcaef8-0898-4649-9ef4-6b1d49c5a6bb,,"Investigations, Lifestyle modification",Investigations,,,,,,,,,,Question,Coded,
+Heart disease, Medical History;Other, Specify;"
+e83e9a75-910e-4afb-981f-155cf18d7650,,"Family history, Specify",Specify,,,,,,,,,,Misc,Text,
+b3bcaef8-0898-4649-9ef4-6b1d49c5a6bb,,"Investigations, Lifestyle modification",Investigations,,,,,,,,,,Question,Coded,"Other, Specify;"
+90448e25-7114-46a8-a21b-6fba6acdef3d,,"Investigations, Specify",Specify,,,,,,,,,,Misc,Text,
 a217548e-f61f-11ec-b939-0242ac120002,,Progesterone deficiency,,,,,,,,,,,Misc,N/A,
 a2175722-f61f-11ec-b939-0242ac120002,,Estrogen deficiency,,,,,,,,,,,Misc,N/A,
 a2175876-f61f-11ec-b939-0242ac120002,,Excess estroge,,,,,,,,,,,Misc,N/A,
@@ -36,14 +43,17 @@ Estrogen deficiency;
 Excess estroge;
 Estrogen dominance;
 Excess androgens;
-Cortisol deficiency;"
-834ade1b-740e-4776-acd2-cb7f434c38de,,"Hormonal treatment plan, Lifestyle modification","Hormonal treatment plan ",,,,,,,,,,Question,Coded,
+Cortisol deficiency;Other, Specify;"
+f7c9524b-978c-4781-897e-d4860383b88a,,"Hormonal findings, Specify",Specify,,,,,,,,,,Misc,Text,
+834ade1b-740e-4776-acd2-cb7f434c38de,,"Hormonal treatment plan, Lifestyle modification","Hormonal treatment plan ",,,,,,,,,,Question,Coded,"Other, Specify;"
+3f13f3d8-7c1c-44d9-8e56-3e980b343046,,"Hormonal treatment plan, Specify",Specify,,,,,,,,,,Misc,Text,
 29294664-1bf3-4dd1-9acf-128c6a05396f,,Low levels,,,,,,,,,,,Misc,N/A,
 19eea9d4-4113-4038-aa8b-58239cff0796,,Moderate levels,,,,,,,,,,,Misc,N/A,
 6bc9356d-7827-473c-a650-5bb9bf0ad78d,,High levels,,,,,,,,,,,Misc,N/A,
 a3c7874b-5ffb-429d-98eb-34c4de1fd1ab,,"Exercise findings, Lifestyle modification","Exercise findings ",,,,,,,,,,Question,Coded,"Low levels;
 Moderate levels;
-High levels;"
+High levels;Other, Specify;"
+b2a925db-dfc7-4453-b4ce-dd55f0d73561,,"Exercise findings, Specify",Specify,,,,,,,,,,Misc,Text,
 9da9b679-002c-4d6b-a300-ad071cd83ac8,,"Body fat (%)
 ","Body fat (%)
 ",,,,,%,,,,,Question,Text,
@@ -71,7 +81,8 @@ c9b211e9-dac3-4d7c-96ef-c19e7c7e38ce,,"Rotary stability  (Left and right) ",,,,,
 580a6b16-239e-4775-a719-8f38e8c56a2f,,Flexion clearing,,,,,,,,,,,Question,Text,
 386f0c55-4b7e-497e-8326-05b652ec836e,,Functional movement Screening (FMS) Total score,,,,,,,,,,,Misc,N/A,
 3b70d565-a48f-4ba4-ac28-057261c4cd55,,"Physical capacity assessment, Lifestyle modification",Physical capacity assessment,,,,,,,,,,Misc,N/A,
-83be80a7-3c7c-4475-99b4-5221e1d3e3e3,,"Exercise treatment plans, Lifestyle modification","Exercise treatment plans ",,,,,,,,,,Question,Coded,
+83be80a7-3c7c-4475-99b4-5221e1d3e3e3,,"Exercise treatment plans, Lifestyle modification","Exercise treatment plans ",,,,,,,,,,Question,Coded,"Other, Specify;"
+0614e21b-84b5-4d80-9e4a-211f8cdfa594,,"Exercise treatment plans, Specify",Specify,,,,,,,,,,Misc,Text,
 9550072c-b547-4405-bad4-2f648f5cdd8c,,High carb,,,,,,,,,,,Misc,N/A,
 e7f8b2f7-2337-4394-bdde-13d18dddf568,,Ketogenic,,,,,,,,,,,Misc,N/A,
 36268258-e2ce-48d7-ad64-87592e6d2c83,,Adequate nutritional status,,,,,,,,,,,Misc,N/A,
@@ -79,10 +90,14 @@ e7f8b2f7-2337-4394-bdde-13d18dddf568,,Ketogenic,,,,,,,,,,,Misc,N/A,
 785fb19d-7d8f-441f-898c-4de7d63099be,,"Nutritional findings, Lifestyle modification","Nutritional findings ",,,,,,,,,,Question,Coded,"High carb;
 Ketogenic;
 Adequate nutritional status;
-Low vegetable intake;"
-57f9234f-fc40-4250-81c8-0426ae3922b5,,"Nutritional treatment plan, Lifestyle modification","Nutritional treatment plan ",,,,,,,,,,Question,Coded,
-0097a798-e14d-439e-8f24-42d809e91a13,,"Injury findings, Lifestyle modification","Injury findings ",,,,,,,,,,Question,Coded,
+Low vegetable intake;Other, Specify;"
+d2614d71-60b1-4c77-a840-6bfe8b47170a,,"Nutritional findings, Specify",Specify,,,,,,,,,,Misc,Text,
+57f9234f-fc40-4250-81c8-0426ae3922b5,,"Nutritional treatment plan, Lifestyle modification","Nutritional treatment plan ",,,,,,,,,,Question,Coded,"Other, Specify;"
+19f01b4d-bc84-4c5f-bb3b-9c530a1f4452,,"Nutritional treatment plan, Specify",Specify,,,,,,,,,,Misc,Text,
+0097a798-e14d-439e-8f24-42d809e91a13,,"Injury findings, Lifestyle modification","Injury findings ",,,,,,,,,,Question,Coded,"Other, Specify;"
+c77c6ef9-88c1-4e31-a11f-5d36f572b764,,"Injury findings, Specify",Specify,,,,,,,,,,Misc,Text,
 061a2266-ce26-4c9c-8382-eb9eb319e4ff,,"Injury treatment plans, Lifestyle modification","Injury treatment plans ",,,,,,,,,,Question,Coded,
+a0c2cfdf-7c21-4de9-916c-07612f1d4de5,,"Injury treatment plans, Specify",Specify,,,,,,,,,,Misc,Text,
 d0ddd77d-0ad1-46f2-a887-b29895549729,,Low levels of mental wellness,,,,,,,,,,,Misc,N/A,
 c2fd05a8-49ad-47f5-afb0-0bf3a993e062,,Moderate levels of mental wellness,,,,,,,,,,,Misc,N/A,
 eabd453b-cd98-4186-9df1-90bc54f0781a,,High levels of mental wellness,,,,,,,,,,,Misc,N/A,
@@ -96,6 +111,8 @@ High levels of mental wellness;
 High stress;
 High anxiety;
 Moderate stress;
-Moderate Moderate anxiety;"
-74069900-71a9-4b1a-ae67-076e139ffd94,,"Mental wellness treatment plans, Lifestyle modification","Mental wellness treatment plans ",,,,,,,,,,Question,Coded,
+Moderate Moderate anxiety;Other, Specify;"
+8a6d2648-904d-4056-b14f-a8cc84ea86e0,,"Mental wellness findings, Specify",Specify,,,,,,,,,,Misc,Text,
+74069900-71a9-4b1a-ae67-076e139ffd94,,"Mental wellness treatment plans, Lifestyle modification","Mental wellness treatment plans ",,,,,,,,,,Question,Coded,"Other, Specify;"
+9e4f1215-6d98-4e5e-b750-b7740dca52d6,,"Mental wellness treatment plans, Specify",Specify,,,,,,,,,,Misc,Text,
 9572b51f-f3b9-48da-88c6-ac2272d69080,,Lifestyle Modification Questionnaire,Lifestyle Modification Questionnaire Form,,,,,,,,,,Misc,N/A,
