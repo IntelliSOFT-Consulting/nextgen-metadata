@@ -29,13 +29,17 @@ Infertility, male, unspec.;
 Calculus, urinary, unspec.;	
 Mastitis, NOS;	
 Infertility, female, unspec.;	
-Infertility, male, unspec.;"
+Infertility, male, unspec.;
+Other, Specify;"
+dc218b99-b75c-45a9-9b70-6e851b1beb91,,"Orthopaedic Diagnosis, Specify",Specify,,,,,,,,,,Misc,Text,
 52ed8fb5-8603-4a2d-a61f-1282cf31f6c6,,Differential Diagnosis,,,,,,,,,,,Question,Coded,"Impotence, organic;	
 Infertility, male, unspec.;	
 Calculus, urinary, unspec.;	
 Mastitis, NOS;	
 Infertility, female, unspec.;	
-Infertility, male, unspec.;"
+Infertility, male, unspec.;
+Other, Specify;"
+4edeb6ce-9cc6-4eec-a108-f128e13bdcd8,,"Orthopaedic Form Differential Diagnosis, Specify",Specify,,,,,,,,,,Misc,Text,
 a2c676c7-97fd-4efc-beac-15d0bbe1a1ba,,On observation,,,,,,,,,,,Question,Text,
 1c30df03-6078-410c-be46-6a8705a61874,,On palpation,,,,,,,,,,,Question,Text,
 af12b516-8146-4c1d-9389-fd80b3e5f928,,On examination,,,,,,,,,,,Question,Text,
@@ -46,5 +50,7 @@ b8b18a2b-d3b6-46e8-a9a4-7880eb5c84ca,,"Ribs - Right, 2 views (X-ray), Investigat
 b853fcf9-567a-4e46-b59b-61d5f9086400,,Investigations,,,,,,,,,,,Question,Coded,"Chest, 1 view (X-ray), Investigation;	
 Spine, 1 view (X-ray), Investigation;	
 Pelvis, 1 view (X-ray), Investigation;	
-Ribs - Right, 2 views (X-ray), Investigation;"
+Ribs - Right, 2 views (X-ray), Investigation;
+Other, Specify;"
+f4833a33-e887-4a56-9b21-4c650796812e,,"Orthopaedic Investigations, Specify",Specify,,,,,,,,,,Misc,Text,
 543da564-a7e4-447c-ba6f-77bce24be4b0,,Treatment plan,,,,,,,,,,,Question,Text,
