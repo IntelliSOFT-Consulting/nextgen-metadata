@@ -9,11 +9,11 @@ c827ab65-4872-4904-ba64-fd27082e24f7,,T-Test,,,,,,,,,,,Misc,Numeric,
 3854958b-af79-4baa-9276-503e4779d5a5,,5M speed Test,,,,,,,,,,,Misc,Numeric,
 a9abc671-75c2-4b32-a285-687f1424fa20,,20M speed Test,,,,,,,,,,,Misc,Numeric,
 c81b550c-c96e-40b2-bc7b-c6dd76423a55,,Vertical Jump Test,,,,,,,,,,,Misc,Numeric,
-df931d7e-61e0-422d-979b-3cd03c6bd781,,Poor,,,,,,,,,,,Misc,N/A,
-47333a53-8c5e-4992-aedd-5e7d844c1217,,Average,,,,,,,,,,,Misc,N/A,
+df931d7e-61e0-422d-979b-3cd03c6bd781,,Poor,Poor,,,,,,,,,,Misc,N/A,
+47333a53-8c5e-4992-aedd-5e7d844c1217,,Average,Average,,,,,,,,,,Misc,N/A,
 87653bda-b6f6-4db3-a829-33de89468166,,Ability Good,Good,,,,,,,,,,Misc,N/A,
-4f70fbfe-04b0-4152-b2da-0395f20f0f36,,Best,,,,,,,,,,,Misc,N/A,
-b2b40373-db08-4899-836f-2feeaf0f8342,,Outstanding,,,,,,,,,,,Misc,N/A,
+4f70fbfe-04b0-4152-b2da-0395f20f0f36,,Best,Best,,,,,,,,,,Misc,N/A,
+b2b40373-db08-4899-836f-2feeaf0f8342,,Outstanding,Outstanding,,,,,,,,,,Misc,N/A,
 b7c5ed2c-039a-4a42-b5df-1eaa8fcf0392,,Technical Passing,,,,,,,,,,,Question,Coded,"Poor;
 Average;
 Ability Good;

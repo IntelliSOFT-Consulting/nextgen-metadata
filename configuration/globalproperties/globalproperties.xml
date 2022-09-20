@@ -29,43 +29,43 @@
       <value>appointmentsehospital@gmail.com</value>
     </globalProperty>
      <globalProperty>
-	<property>weight_optimum</property>
+	<property>Optimum Weight</property>
       <value>34.84</value>
     </globalProperty>
     <globalProperty>
-	<property>height_optimum</property>
+	<property>Optimum Height</property>
       <value>139.15</value>
     </globalProperty>
     <globalProperty>
-	<property>bodyfat_optimum</property>
+	<property>Optimum Body Fat</property>
       <value>16.4</value>
     </globalProperty>
     <globalProperty>
-	<property>multistagefitness_optimum</property>
+	<property>Optimum Multistage fitness</property>
       <value>6.8</value>
     </globalProperty>
     <globalProperty>
-	<property>coreStrength_optimum</property>
+	<property>Optimum Core Strength</property>
       <value>60</value>
     </globalProperty>
     <globalProperty>
-	<property>sitAndRecahTest_optimum</property>
+	<property>Optimum Sit And Recah Test</property>
       <value>48</value>
     </globalProperty>
     <globalProperty>
-	<property>tTest_optimum</property>
+	<property>Optimum T-Test</property>
       <value>0</value>
     </globalProperty>
      <globalProperty>
-	<property>5mSpeedTest_optimum</property>
+	<property>Optimum 5m Speed Test</property>
       <value>1.68</value>
     </globalProperty>
      <globalProperty>
-	<property>20mSpeedTest_optimum</property>
+	<property>Optimum 20m Speed Test</property>
       <value>3.67</value>
     </globalProperty>
      <globalProperty>
-	<property>verticalJump_optimum</property>
+	<property>Optimum Vertical Jump</property>
       <value>37</value>
     </globalProperty>
   </globalProperties>
